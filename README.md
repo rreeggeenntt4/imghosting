@@ -1,5 +1,5 @@
 # Задание:
-Http://sdfkjghsdf.ru
+https://github.com/rreeggeenntt4/imghosting/blob/main/Тесты.docx
 <br/><br/>
 # Решение:
 ## Установка Laravel
