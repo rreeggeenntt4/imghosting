@@ -409,7 +409,7 @@ Route::get('/images/{id}', [ApiController::class, 'getImageById']);
 -----
 ### Тестовое завершено
 
-Демонстрция <a href="https://youtu.be/IYFxhqdfSPw">https://youtu.be/IYFxhqdfSPw</a>
+Демонстрация <a href="https://youtu.be/IYFxhqdfSPw">https://youtu.be/IYFxhqdfSPw</a>
 
 
 
